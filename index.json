@@ -1,3 +1,6 @@
 [
-  "packs/natusya/index.json"
+  {
+    "name": "Natusya",
+    "url": "packs/natusya/index.json"
+  }
 ]
