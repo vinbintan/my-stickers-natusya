@@ -2,185 +2,35 @@
   "title": "Natusya",
   "id": "natusya",
   "stickers": [
-    {
-      "id": "natusya-1",
-      "body": "Frame 1",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 1.png"
-    },
-    {
-      "id": "natusya-2",
-      "body": "Frame 2",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 2.png"
-    },
-    {
-      "id": "natusya-3",
-      "body": "Frame 3",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 3.png"
-    },
-    {
-      "id": "natusya-4",
-      "body": "Frame 4",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 4.png"
-    },
-    {
-      "id": "natusya-5",
-      "body": "Frame 5",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 5.png"
-    },
-    {
-      "id": "natusya-6",
-      "body": "Frame 6",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 6.png"
-    },
-    {
-      "id": "natusya-7",
-      "body": "Frame 7",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 7.png"
-    },
-    {
-      "id": "natusya-8",
-      "body": "Frame 8",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 8.png"
-    },
-    {
-      "id": "natusya-9",
-      "body": "Frame 9",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 9.png"
-    },
-    {
-      "id": "natusya-10",
-      "body": "Frame 10",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 10.png"
-    },
-    {
-      "id": "natusya-11",
-      "body": "Frame 11",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 11.png"
-    },
-    {
-      "id": "natusya-12",
-      "body": "Frame 12",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 12.png"
-    },
-    {
-      "id": "natusya-13",
-      "body": "Frame 13",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 13.png"
-    },
-    {
-      "id": "natusya-14",
-      "body": "Frame 14",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 14.png"
-    },
-    {
-      "id": "natusya-15",
-      "body": "Frame 15",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 15.png"
-    },
-    {
-      "id": "natusya-16",
-      "body": "Frame 16",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 16.png"
-    },
-    {
-      "id": "natusya-17",
-      "body": "Frame 17",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 17.png"
-    },
-    {
-      "id": "natusya-18",
-      "body": "Frame 18",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 18.png"
-    },
-    {
-      "id": "natusya-19",
-      "body": "Frame 19",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 19.png"
-    },
-    {
-      "id": "natusya-20",
-      "body": "Frame 20",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 20.png"
-    },
-    {
-      "id": "natusya-21",
-      "body": "Frame 21",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 21.png"
-    },
-    {
-      "id": "natusya-22",
-      "body": "Frame 22",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 22.png"
-    },
-    {
-      "id": "natusya-23",
-      "body": "Frame 23",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 23.png"
-    },
-    {
-      "id": "natusya-24",
-      "body": "Frame 24",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 24.png"
-    },
-    {
-      "id": "natusya-25",
-      "body": "Frame 25",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 25.png"
-    },
-    {
-      "id": "natusya-26",
-      "body": "Frame 26",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 26.png"
-    },
-    {
-      "id": "natusya-27",
-      "body": "Frame 27",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 27.png"
-    },
-    {
-      "id": "natusya-28",
-      "body": "Frame 28",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 28.png"
-    },
-    {
-      "id": "natusya-29",
-      "body": "Frame 29",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 29.png"
-    },
-    {
-      "id": "natusya-30",
-      "body": "Frame 30",
-      "info": { "mimetype": "image/png", "w": 256, "h": 256 },
-      "url": "Frame 30.png"
-    }
+    { "id": "n-1", "body": "1", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 01.png" },
+    { "id": "n-2", "body": "2", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 02.png" },
+    { "id": "n-3", "body": "3", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 03.png" },
+    { "id": "n-4", "body": "4", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 04.png" },
+    { "id": "n-5", "body": "5", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 05.png" },
+    { "id": "n-6", "body": "6", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 06.png" },
+    { "id": "n-7", "body": "7", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 07.png" },
+    { "id": "n-8", "body": "8", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 08.png" },
+    { "id": "n-9", "body": "9", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 09.png" },
+    { "id": "n-10", "body": "10", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 10.png" },
+    { "id": "n-11", "body": "11", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 11.png" },
+    { "id": "n-12", "body": "12", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 12.png" },
+    { "id": "n-13", "body": "13", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 13.png" },
+    { "id": "n-14", "body": "14", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 14.png" },
+    { "id": "n-15", "body": "15", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 15.png" },
+    { "id": "n-16", "body": "16", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 16.png" },
+    { "id": "n-17", "body": "17", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 17.png" },
+    { "id": "n-18", "body": "18", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 18.png" },
+    { "id": "n-19", "body": "19", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 19.png" },
+    { "id": "n-20", "body": "20", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 20.png" },
+    { "id": "n-21", "body": "21", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 21.png" },
+    { "id": "n-22", "body": "22", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 22.png" },
+    { "id": "n-23", "body": "23", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 23.png" },
+    { "id": "n-24", "body": "24", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 24.png" },
+    { "id": "n-25", "body": "25", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 25.png" },
+    { "id": "n-26", "body": "26", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 26.png" },
+    { "id": "n-27", "body": "27", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 27.png" },
+    { "id": "n-28", "body": "28", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 28.png" },
+    { "id": "n-29", "body": "29", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 29.png" },
+    { "id": "n-30", "body": "30", "info": { "mimetype": "image/png", "w": 256, "h": 256 }, "url": "frame 30.png" }
   ]
 }
